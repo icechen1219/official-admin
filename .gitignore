@@ -23,3 +23,7 @@
 /nbdist/
 /.nb-gradle/
 /build/
+.mvn
+mvnw.cmd
+mvnw
+application-mssql.yml
